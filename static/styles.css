@@ -1,0 +1,23 @@
+
+.footer {
+  position:fixed;
+  bottom:0;
+  display:inline-block;
+  width: 100%;
+}
+
+.footer .container {
+  background-color: #BBB;
+  border-width:thin;
+  border-style: solid;
+  border-color: #00A090;
+}
+
+.featured {
+  max-width: 100%;
+}
+
+body {
+  /*background-color: #FA5;*/
+  margin-bottom:60px !important;
+}
